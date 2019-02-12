@@ -1,0 +1,110 @@
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe.config
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.pdb
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csprojResolveAssemblyReference.cache
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Properties.Resources.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.GenerateResource.Cache
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.exe
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.pdb
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.menuForm.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Izpis.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.UrejanjeNorm.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Racun.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeSestavin.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeDodajanjeSestavin.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Ime.resources
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.xml
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\dojc\source\repos\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll.config
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe.config
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.pdb
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.Fonts.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.xml
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.xml
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll.config
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csprojResolveAssemblyReference.cache
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.menuForm.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Ime.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Izpis.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Properties.Resources.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Racun.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeDodajanjeSestavin.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.UrejanjeNorm.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeSestavin.resources
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.GenerateResource.cache
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CopyComplete
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.exe
+D:\Dokumenti\Visual studio\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.pdb
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe.config
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.pdb
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.xml
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csprojResolveAssemblyReference.cache
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.menuForm.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Ime.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Izpis.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Properties.Resources.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Racun.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeDodajanjeSestavin.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.UrejanjeNorm.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeSestavin.resources
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.GenerateResource.Cache
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.exe
+C:\Users\theph\Desktop\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.pdb
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe.config
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.exe
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\koncniProjekt.pdb
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.menuForm.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Ime.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Izpis.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Properties.Resources.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.Racun.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeDodajanjeSestavin.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.UrejanjeNorm.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.urejanjeSestavin.resources
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.GenerateResource.cache
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.exe
+C:\Users\strop\Downloads\Projects\koncniProjekt_v3\koncniProjekt\koncniProjekt\obj\Debug\koncniProjekt.pdb
