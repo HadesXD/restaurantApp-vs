@@ -22,7 +22,7 @@ Used:
   <li>Microsoft.Office.Inerop.Excel</li>
   <li>System.Data.SQLite</li>
     <ul>
-      <li>System.Data.SQLite.Cre</li>
+      <li>System.Data.SQLite.Core</li>
        <li>System.Data.SQLite.EF6</li>
        <li>System.Data.SQLite.Linq</li>
     </ul>
