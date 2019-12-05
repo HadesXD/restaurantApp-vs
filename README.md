@@ -5,7 +5,7 @@ I was paired up with 2 other classmates and we managed to create the best app.
 
 Used:
 <ul>
-  <li><b>Date:</b>May 2017</li>
+  <li><b>Date:</b> May 2017</li>
   <li><b>Languages:</b></li>
   <ul>
     <li>C#</li>
