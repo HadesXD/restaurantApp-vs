@@ -4,16 +4,17 @@ The customer wanted us to create an app for him and his restaurant Maš here in 
 I was paired up with 2 other classmates and we managed to create the best app.
 
 Used:
-<li><b>Languages:</b></li>
 <ul>
-  <li>C#</li>
-  <li>SQLite</li>
-</ul>
+<li><b>Languages:</b></li>
+  <ul>
+    <li>C#</li>
+    <li>SQLite</li>
+  </ul>
 <li><b>IDE:</b> Visual Studio 2017</li>
 <li><b>NutPackages:</b></li>
-<ul> 
-  <li>EntityFramework</li>
-  <li>MetroFramework</li>
+  <ul>
+    <li>EntityFramework</li>
+    <li>MetroFramework</li>
     <ul>
       <li>MetroFramework.Design</li>
       <li>MetroFramework.Fonts</li>
