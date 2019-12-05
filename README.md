@@ -1,4 +1,4 @@
-# Restaurant App
+# Restaurant App - Visual Studio 2017
 This was an application me and 2 other classamtes developed for our programming subject in High School. The project was brought to us by a customer. The customer wanted us to create an app for his restaurant Maš here in Velenje.<br/>
 I was paired up with 2 other classmates and we managed to create the best app.
 
