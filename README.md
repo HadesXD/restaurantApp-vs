@@ -3,7 +3,6 @@ This was an app that was given to us by a "customer", brought to us by our teach
 The customer wanted us to create an app for him and his restaurant Maš here in Velenje. <br/>
 I was paired up with 2 other classmates and we managed to create the best app.
 
-Used:
 <ul>
   <li><b>Date:</b> May 2017</li>
   <li><b>Languages:</b></li>
